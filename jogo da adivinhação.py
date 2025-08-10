@@ -16,3 +16,4 @@ while not acertou:
             print('Menos... Tente mais uma vez.' \
             '')
 print('Acertou com {} tentativas. Parabéns'.format(palpites))
+#caso for testar direto pelo arquivo coloque input('') no final
